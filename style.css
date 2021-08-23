@@ -117,7 +117,7 @@ table{
     border-color: #32383e;
 }
 
-@media only screen and (max-width: 1024px){
+/* @media only screen and (max-width: 1024px){
     table, thead, tbody, th, td, tr{
         display: block;
     }
@@ -135,7 +135,7 @@ table{
         position: relative;
     }
 
-}
+} */
 
 /*  add user & update user template */
 .form-title{
